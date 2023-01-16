@@ -22,7 +22,7 @@
     "charts",
     "home-assistant"
   ],
-  "author": "Jérôme Wiedemann",
+  "author": "Jérôme Wiedemann, Gerald Bart",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TheBrain8791/apexcharts-card.git/issues"
