@@ -1,3 +1,10 @@
+### [2.0.3](https://github.com/TheBrain8791/apexcharts-card/compare/v2.0.2...v2.0.3) (2023-01-17)
+
+
+### Bug Fixes
+
+* get lastState in case of using data_generator with "future" values ([18014a0](https://github.com/TheBrain8791/apexcharts-card/commit/18014a0a1fe03b3f84d1b2b10de4b648b910714b))
+
 ### [2.0.2](https://github.com/RomRider/apexcharts-card/compare/v2.0.1...v2.0.2) (2022-12-08)
 
 
